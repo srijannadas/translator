@@ -22,7 +22,7 @@ This Node.js project serves as a simple API for translating English text to Fren
 2. **Navigate to the project directory**:
 
     ```bash
-    cd translator-api
+    cd translator
     ```
 3. **Install dependencies**:
     ```bash
