@@ -17,7 +17,7 @@ This Node.js project serves as a simple API for translating English text to Fren
 1. **Clone the repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/srijannadas/translator.git
    ```
 2. **Navigate to the project directory**:
 
